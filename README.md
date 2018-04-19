@@ -1,3 +1,3 @@
 # Nural_Network
 The easy and simple code of nural_network ....
-```:smile: for running the code in terminal type "python file_name" and hit enter..```
+```:smile: for run the code in terminal type "python file_name" and hit enter..```
